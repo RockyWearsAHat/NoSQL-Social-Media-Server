@@ -58,7 +58,7 @@ As I said, there are many many routes defined, they are listed below:
 ```
 
 - http://localhost:3000/api/user/logout - POST, again, somewhat self explanitory, send post and destroys the session:
-- No body, works of stored session of user
+- No body, works off of stored session of user
 
 - http://localhost:3000/api/user/users/getAll - GET all users, send a get request and sends back all user data (besides passwords)
 
