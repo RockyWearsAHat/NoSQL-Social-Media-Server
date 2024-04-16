@@ -1,0 +1,9 @@
+{
+  "exec": "tsx server/server.ts",
+  "ext": "ts,json",
+  "ignore": [],
+  "execMap": {
+    "ts": "tsx"
+  },
+  "delay": 500
+}
