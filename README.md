@@ -5,6 +5,8 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-7.0-lime?logo=mongodb&logoColor=lime)](https://www.mongodb.com/)
 [![Mongoose](https://img.shields.io/badge/Mongoose-8.3.1-red?logo=mongodb&logoColor=red)](https://www.npmjs.com/package/mongoose)
 
+## [Demo](https://www.youtube.com/watch?v=RsMCjqcUlW4)
+
 ## Description
 
 This is a simple project made to demonstrate an example API for a social media app running in MongoDB, no SQL queries, relitively decent (not perfect) error handling, and some interesting things learned along the way with Mongoose/MongoDB models. Includes login, logout, register, a simple session store for keeping track of who is logged in on what computer, as well as routes for users, "thoughts" (posts), and "reactions" (comments).
